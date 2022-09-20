@@ -95,7 +95,7 @@ disqusShortname = ""
       title = "Self Introduction"
       subtitle = "Welcome to my website"
       image = "pic01.jpg"
-      url = "blogs/aliquam"
+      url = "blogs/Self Intro.Rmd"
 
     [[params.tiles.showcase]]
       title = "Homework 1"
